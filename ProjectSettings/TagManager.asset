@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LoadScreen
+  - LoadText
+  - LoadSlider
+  - GameManager
+  - LoadLastCheckpointButton
+  - PauseMenu
+  - MainMenu
+  - ContinueButton
+  - Wall
+  - ScoreDisplay
+  - PlayersHealthBar
+  - PlayersSpawnPoint
+  - Enemy
+  - EnemyHead
+  - EnemyBody
+  - NextSceneCollider
+  - CameraPlayer
+  - PlayerUI
+  - thisisCheckpoint
+  - ScoreList
+  - PlayerInputManager
+  - StartButton
+  - NumberOfPlayersCounterText
+  - Destructable
+  - QuitButton
+  - BackButton
+  - LevelLoader
+  - EndSceneCollider
+  - Switch
+  - Cover
+  - EnemyBHT
+  - HideSpot
+  - WanderPoint
+  - EnemyOther
+  - AlienFSM
+  - POPupTEXT
+  - ResetMainMenu
+  - StealthKill
+  - PlayerSpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - PostProcessing
+  - Obstacle
+  - PlayerCam
+  - PlayerCam2
+  - Cover
+  - Ignore Shot
+  - Cover Invisible
+  - Player
+  - Enemy
+  - Bound
+  - hologram
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Smoke
+    uniqueID: 88955723
+    locked: 0
